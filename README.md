@@ -2,7 +2,7 @@
 
 ### Install
 
-mkvirtualenv --python=python3 challenge
+`mkvirtualenv --python=python3 challenge`
 
 workon challenge 
 
