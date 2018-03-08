@@ -1,9 +1,19 @@
 # Python Challenge
 
-### Install
+## Prerequisites:
+- `python 3.*`
+- `pip`
+- `virtualenv`
+- `virtualenvwrapper`
 
-`mkvirtualenv --python=python3 challenge`
+## How to install
 
-workon challenge 
+### Create a virtual environment
 
-pip install -r requirements.txt
+`mkvirtualenv python-challenge`
+
+*Note*: This is assuming that your default python version is >= 3.*
+
+### Install all requirements for the project
+
+`pip install -r requirements.txt`
